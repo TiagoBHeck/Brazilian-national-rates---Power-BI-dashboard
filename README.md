@@ -10,7 +10,7 @@
 
 #### The image below shows the data transformation flow before being used as a data source in Power BI. 
 &nbsp;
-![alt text](images/diagram.png.png "Data flow transformation")
+![alt text](Images/diagram.png "Data flow transformation")
 
 ## Dashboard tabs
 
@@ -18,12 +18,12 @@
 
 #### The first tab contains one of the most important calculations for analyzing these rates, which is the 12-month accumulation and its variations between months.
 &nbsp;
-![alt text](images/aba%201.gif "12 months")
+![alt text](Images/aba%201.gif "12 months")
 
 ### Variação mensal (Monthly variation)
 
 #### The second tab shows how much each rate rises or falls over the months. The table below highlights the trend of recent months, bringing more clarity to the numbers.
-![alt text](images/aba%202.gif "variation")
+![alt text](Images/aba%202.gif "variation")
 
 ## Next steps
 
